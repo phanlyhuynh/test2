@@ -1,0 +1,8 @@
+Cài đặt Git: sudo apt-install git
+Thiết lập ban đầu: git config --global user.name "<Tên người dùng>"
+		   git config --global user.email "<Địa chỉ email>"
+Kiểm tra cấu hình: git config --list
+Khởi tạo Git repository: git init
+﻿xem nội dung của thay đổi: git status
+kiểm tra thiết lập: git config
+nội dung của tệp stage trở về HEAD: git reset --soft
