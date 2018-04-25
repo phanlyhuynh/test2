@@ -6,3 +6,4 @@ Khởi tạo Git repository: git init
 ﻿xem nội dung của thay đổi: git status
 kiểm tra thiết lập: git config
 nội dung của tệp stage trở về HEAD: git reset --soft
+:))))
